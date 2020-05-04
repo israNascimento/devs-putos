@@ -15,19 +15,31 @@ const TwitterAPI = new Twit({
 
 const WORDS = [
   "arrombado",
+  "bcta",
+  "bct",
   "bosta",
   "buceta",
   "caralho",
-  "vai tomar no cu",
-  "vtnc",
+  "corno",
+  "cu doce",
+  "desgraça",
   "desgraca",
+  "disgrama",
+  "donzelo",
+  "fdp",
+  "fiduma egua",
+  "filho da puta",
   "foda",
   "foda-se",
   "fodido",
   "fodase",
+  "inferno",
   "merda",
   "porra",
   "puta",
+  "tabacudo",
+  "vai tomar no cu",
+  "vtnc",
 ];
 
 const latestCommits = [];
