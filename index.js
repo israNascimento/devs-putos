@@ -28,6 +28,14 @@ const WORDS = [
   "merda",
   "porra",
   "puta",
+  "otário",
+  "babaca",
+  "cuzao",
+  "cuzão",
+  "besta",
+  "bananão",
+  "bobalhão",
+  "tabacudo",
 ];
 
 const latestCommits = [];
