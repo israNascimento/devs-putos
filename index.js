@@ -28,6 +28,9 @@ const WORDS = [
   "merda",
   "porra",
   "puta",
+  "vai se fuder",
+  "vai se foder",
+  "vsf",
 ];
 
 const latestCommits = [];
