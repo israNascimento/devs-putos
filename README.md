@@ -2,4 +2,4 @@
 
 License
 =======
-FOQQCEC - Faça o que quiser com esse código
+FOQQCEC - Faça o que quiser com esse código.
